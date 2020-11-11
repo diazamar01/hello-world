@@ -1,2 +1,4 @@
 # hello-world
-a long journey begin with this
+hard but rewarding
+
+i want to make a product that can impact other people yet makes me rich
